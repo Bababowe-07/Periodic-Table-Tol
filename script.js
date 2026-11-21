@@ -1209,6 +1209,3 @@ for (const cell of cells) {
     );
   });
 }
-
-
-

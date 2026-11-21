@@ -3,7 +3,7 @@ body {
     padding: 30px 20px;
     font-family: 'Plus Jakarta Sans', sans-serif;
     background: radial-gradient(circle at 10% 15%, #6e46ff, transparent 40%),
-                radial-gradient(circle at 90% 10%, #ff4696, transparent 40%),
+                radial-gradient(circle at 90% 10%, #c43170, transparent 40%),
                 radial-gradient(circle at 80% 90%, #14beff, transparent 40%),
                 radial-gradient(circle at 15% 90%, #3cebaa, transparent 40%),
                 #070a18;
@@ -97,7 +97,7 @@ td[class]:hover {
     background-color: rgba(224, 226, 230, 0.3);
 }
 
-/* text color depends on the state */
+
 .solid {
     color: white;
 }
@@ -107,10 +107,9 @@ td[class]:hover {
 }
 
 .gas {
-    color: #ffa3b0;
+    color: #f1c7cc;
 }
 
 .unknown {
     color: #d2d2dc;
 }
-
